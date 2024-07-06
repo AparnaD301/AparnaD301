@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AparnaD301
 - 👀 I love Entrepreneurship, Data driven decision making, Data science ,Data Analytics and Business Analytics, Business Intelligence and anything and everything about Business, Technology and Data.
-- 🌱 I’m currently learning ...Python,Denodo,Network Marketing...
-- 💞️ I’m looking to collaborate with startups,Network Marketing,Data related projects and others.
+- 🌱 I’m currently learning ...Excel,SQL,Python,Tableau,Power BI,Denodo...
+- 💞️ I’m looking to collaborate with startups,Data related projects and others.
 - 📫 How to reach me ...i am available at aparnacube@gmail.com
 
 <!---
